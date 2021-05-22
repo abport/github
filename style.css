@@ -71,6 +71,17 @@ body {
   margin-bottom: 0;
 }
 
+.user-github-link, 
+.vcard-details ul li a {
+  color: #44AD9F;
+  text-decoration: none;
+}
+
+.user-github-link:hover,
+.vcard-details ul li a:hover {
+  color: #F8AF2C;
+}
+
 .user-info ul {
   list-style-type: none;
   display: flex;
@@ -90,6 +101,19 @@ body {
   margin-left: 0.5rem;
 }
 
+.vcard-details ul {
+  display: block;
+}
+
+.vcard-details ul li span, 
+.vcard-details ul li a {
+  margin-left: 0.5rem;
+}
+
+.display-none {
+  display: none !important;
+}
+
 .repos {
   text-decoration: none;
   color: #fff;
@@ -99,6 +123,10 @@ body {
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
   display: inline-block;
+}
+
+.repos:hover {
+  background-color: #FA6135;
 }
 
 @media (max-width: 500px) {
