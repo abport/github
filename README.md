@@ -1,4 +1,4 @@
-# github
+# Github
 Get public information of Github users.
 
 A simple mini project written in HTML, CSS and JavaScript.
