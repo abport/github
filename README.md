@@ -2,7 +2,8 @@
 Get public information of Github users.
 
 A simple mini project written in HTML, CSS and JavaScript.
-You just give a Github username to it and it getches the public information available from the Github API and displays them for you.
+
+You just give a Github username and it fetches the public information available from the Github API and displays them for you.
 
 [Live Demo](https://aminbeheshti.com/projects/github/)
 
