@@ -61,7 +61,7 @@ function createUserCard(user) {
                 </li>
                 <li id="vcardTwitter" itemprop="twitter" data-test-selector="profile-twitter-url" class="vcard-detail">
                     <span class="iconify" data-icon="dashicons:twitter" data-inline="false"></span>
-                    <a rel="nofollow me" class="Link--primary " href="https://twitter.com/${user.twitter_username}">${user.twitter_username}</a>
+                    <a rel="nofollow me" class="Link--primary " href="https://twitter.com/${user.twitter_username}">@${user.twitter_username}</a>
                 </li>
             </ul>
             </div>
