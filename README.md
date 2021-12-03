@@ -5,7 +5,19 @@ A simple mini project written in HTML, CSS and JavaScript.
 
 You just give a Github username and it fetches the public information available from the Github API and displays them for you.
 
-[Live Demo](https://aminbeheshti.com/projects/github/)
+<p>
+    <a href="https://aminbeheshti.com/projects/github/"
+    ><img
+      src="https://img.shields.io/static/v1?label=&message=Live%20Demo&color=orange"
+      height="25"
+  /></a>
+    
+<a href="https://donate-crypto.netlify.app/"
+    ><img
+      src="https://img.shields.io/static/v1?label=Was%20this%20useful?&message=Please%20consider%20donating%20to%20support!&color=brighgreen"
+      height="25"
+  /></a>
+</p>
 
 Hope you find it useful.
 Peace.
